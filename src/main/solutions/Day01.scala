@@ -1,3 +1,5 @@
+package solutions
+
 import scala.io.Source
 
 object Day01 {
